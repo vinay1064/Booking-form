@@ -1,0 +1,28 @@
+html {
+    font: size 62.5%;
+    
+}
+body {
+    overflow-x: hidden;
+    opacity: 1;
+    font-weight: 600;
+    width: 100vw;
+    height: 100vh;
+    background: url(https://bootstrapmade.com/demo/templates/Laura/assets/img/hero-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.book{
+    background-color: azure;
+    height:50vh;
+    margin-bottom: 300px;
+}
+.babu{
+    border: solid gray;
+    margin-top: 10px;
+}
+.kalu{
+    padding-bottom:300px;
+}
